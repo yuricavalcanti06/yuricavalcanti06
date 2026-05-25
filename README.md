@@ -19,6 +19,21 @@
 
 ---
 
+### Core Skills & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,postgres,sqlite,git,github,docker,fastapi,aws,powershell,vscode&theme=dark&perline=5" alt="Python, PostgreSQL, SQLite, Git, GitHub, Docker, FastAPI, AWS, PowerShell, VS Code" />
+  </a>
+</p>
+
+| Focus | Working With |
+| --- | --- |
+| Data automation | Python, pandas, openpyxl, PDF and spreadsheet extraction |
+| Data validation | SQL, PostgreSQL, SQLite, data quality checks, business rules |
+| Engineering workflow | Git, GitHub, documentation, reproducible scripts |
+| Learning next | Docker, dbt, FastAPI, REST APIs, AWS basics |
+
 ### What I'm Building
 
 - Continuous audit routines for benefits, payroll-related checks, and internal controls.
@@ -27,16 +42,6 @@
 - A path from audit analytics into analytics engineering, data quality, and data engineering.
 
 Currently working as an **Audit & Risk / Compliance intern at a hospitality company**, focused on continuous auditing, benefits validation, and process automation.
-
-### Technical Focus
-
-| Area | Tools and Topics |
-| --- | --- |
-| Data Automation | Python, pandas, openpyxl, PDF extraction, Excel reporting |
-| Analytics Engineering | SQL, dbt fundamentals, data quality checks, business rules |
-| Databases | PostgreSQL, SQLite, relational modeling basics |
-| Tooling | Git, GitHub, reproducible scripts, documentation |
-| Cloud & APIs | REST APIs, FastAPI, AWS basics |
 
 ### Current Roadmap
 
@@ -65,19 +70,6 @@ Audit Analytics -> Analytics Engineering -> Data Operations -> Data Engineering
 ```
 
 I want to work on technical data systems that make business processes more reliable: pipelines, validation layers, data quality checks, automation tools, and traceable reporting workflows.
-
-### Stack Snapshot
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-</p>
 
 ### Contact
 
