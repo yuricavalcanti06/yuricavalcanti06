@@ -79,13 +79,6 @@ I want to work on technical data systems that make business processes more relia
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
-### GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuricavalcanti06&show_icons=true&theme=github_dark&hide_border=true" alt="Yuri's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuricavalcanti06&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
 ### Contact
 
 - Recife, Brazil
