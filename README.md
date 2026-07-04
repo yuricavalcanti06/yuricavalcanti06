@@ -1,79 +1,83 @@
-<h1 align="center">Hi, I'm Yuri Santos</h1>
+# Hi, I'm Yuri Santos
 
-<p align="center">
-  Computer Science student focused on <strong>Data Automation</strong>, <strong>Audit Analytics</strong>, and <strong>Data Quality</strong>.
-</p>
+Computer Science student at **CESAR School** and **Audit, Risk & Compliance Intern** at **Amarante**.
 
-<p align="center">
-  <a href="https://github.com/yuricavalcanti06">
-    <img src="https://img.shields.io/badge/GitHub-yuricavalcanti06-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://linkedin.com/in/yuri--cavalcanti">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
-  </a>
-</p>
+I work at the intersection of **data, automation, audit analytics and data quality**, building Python and SQL routines to transform manual corporate processes into more structured, traceable and auditable workflows.
 
-<p align="center">
-  I build data automation workflows that turn messy PDFs, spreadsheets, CSVs, and internal databases into auditable validations, exception reports, and traceable business controls.
-</p>
+Currently focused on:
+
+- Data Quality & Data Engineering
+- Audit Analytics & Digital Assurance
+- Process Automation
+- Internal Controls & Risk
+- Python, SQL and reliable data pipelines
+
+I also build portfolio projects around **Continuous Controls Monitoring**, evidence lineage, run manifests and data validation.
 
 ---
 
-### Core Skills & Tools
+## Skills & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,sqlite,git,github,docker,fastapi,aws,powershell,vscode&theme=dark&perline=5" alt="Python, PostgreSQL, SQLite, Git, GitHub, Docker, FastAPI, AWS, PowerShell, VS Code" />
-  </a>
-</p>
+### Programming & Data
 
-| Focus | Working With |
-| --- | --- |
-| Data automation | Python, pandas, openpyxl, PDF and spreadsheet extraction |
-| Data validation | SQL, PostgreSQL, SQLite, data quality checks, business rules |
-| Engineering workflow | Git, GitHub, documentation, reproducible scripts |
-| Learning next | Docker, dbt, FastAPI, REST APIs, AWS basics |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### What I'm Building
+### Databases & Data Tools
 
-- Continuous audit routines for benefits, payroll-related checks, and internal controls.
-- Python and SQL workflows for extracting, cleaning, matching, and validating operational data.
-- Exception reports that help business teams review inconsistencies with traceability.
-- A path from audit analytics into analytics engineering, data quality, and data engineering.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-Currently working as an **Audit & Risk / Compliance intern at a hospitality company**, focused on continuous auditing, benefits validation, and process automation.
+### Automation & Workflow
 
-### Current Roadmap
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-| Now | Next |
-| --- | --- |
-| Advanced SQL | dbt |
-| PostgreSQL hands-on | REST APIs / FastAPI |
-| Professional Git workflow | AWS basics |
-| Docker basics | Public synthetic data project |
+### Data Quality & Assurance
 
-### Featured Project Direction
+![Data Quality](https://img.shields.io/badge/Data%20Quality-0A66C2?style=for-the-badge)
+![Audit Analytics](https://img.shields.io/badge/Audit%20Analytics-4B5563?style=for-the-badge)
+![Internal Controls](https://img.shields.io/badge/Internal%20Controls-111827?style=for-the-badge)
 
-`continuous-audit-toolkit` is the public project I plan to build from fully synthetic data.
+---
 
-It will simulate the kind of operational data mess that shows up in real companies:
+## Open Source
 
-- inconsistent identifiers, names, dates, and value formats;
-- changing vendor file layouts across months;
-- duplicated records, missing eligible people, total rows, and false positives;
-- standardized outputs for validation, review status, and audit traceability.
+I have submitted issue fixes to data quality tools such as **Soda Core** and **Great Expectations**, focusing on:
 
-### Career Direction
+- Data contracts
+- JSON Schema validation
+- SQL expectation behavior
+- Regression testing
+- Reliable data validation
 
-```text
-Audit Analytics -> Analytics Engineering -> Data Operations -> Data Engineering
-```
+---
 
-I want to work on technical data systems that make business processes more reliable: pipelines, validation layers, data quality checks, automation tools, and traceable reporting workflows.
+## Currently Learning
 
-### Contact
+- Data Engineering
+- AWS & Cloud fundamentals
+- Spark / PySpark
+- Databricks
+- dbt
+- Medallion Architecture
+- CI/CD for data workflows
 
-- Recife, Brazil
-- B.Sc. Computer Science at CESAR School, expected December 2027
-- Portuguese native, English fluent, German A2.2
-- LinkedIn: [linkedin.com/in/yuri--cavalcanti](https://linkedin.com/in/yuri--cavalcanti)
+---
+
+## GitHub Stats
+
+![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuricavalcanti06&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuricavalcanti06&layout=compact&theme=default)
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri--cavalcanti/)
+[![Email](https://img.shields.io/badge/Email-yuricsantos06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuricsantos06@gmail.com)
