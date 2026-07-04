@@ -28,7 +28,7 @@ I also build portfolio projects around **Continuous Controls Monitoring**, evide
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
 
 ### Automation & Workflow
 
@@ -66,14 +66,6 @@ I have submitted issue fixes to data quality tools such as **Soda Core** and **G
 - dbt
 - Medallion Architecture
 - CI/CD for data workflows
-
----
-
-## GitHub Stats
-
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuricavalcanti06&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuricavalcanti06&layout=compact&theme=default)
 
 ---
 
